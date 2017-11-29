@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "497997125035",
+    "firebase_url": "https://chatgroup-8277e.firebaseio.com",
+    "project_id": "chatgroup-8277e",
+    "storage_bucket": "chatgroup-8277e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497997125035:android:6fcf966b28c3bea9",
+        "android_client_info": {
+          "package_name": "com.example.alon.chatgroup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497997125035-i3n4ei44afqibgon12234m8dbckvc5ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCujhrFW0HiYAsRGwGyGozanNNpvoc1EU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
